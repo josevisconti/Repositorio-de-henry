@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(251, 255, 240);
+}
+h1{
+    background-color: aqua;
+    border: 1px solid black;
+width: 20vw;
+margin: auto;
+padding: auto;
+}
+h2{
+    background-color: aquamarine;
+}
+h3{
+    background-color: azure;
+}
+h4{
+    background-color: bisque;
+}
+#titulo{
+border: 2px solid black;
+width: 27vw;
+margin: auto;
+padding: auto;
+}
+#principal{
+    font-size: 1em;
+    width: 15em;
+    margin: auto;
+    padding:2em 2em 2em 27.5em;
+} 
